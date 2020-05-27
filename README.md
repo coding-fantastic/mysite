@@ -1,1 +1,1 @@
-# Trydjango 
+# trydjango 
